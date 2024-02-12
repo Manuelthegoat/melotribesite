@@ -1,0 +1,34 @@
+.online-body {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 1rem;
+}
+.onlinetext {
+  font-family: "Poppins", sans-serif;
+  font-size: 24px;
+  padding-bottom: 1rem;
+}
+.online {
+  padding: 8rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+.onlinetopimg > img {
+  width: 100%;
+  border-radius: 6px 6px 0 0;
+}
+.onlinebottomtext {
+  background-color: white;
+  text-align: center;
+}
+.onlinefirsttext {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  padding-top: 1rem;
+}
+.onlinesecondtext {
+  font-family: "Poppins", sans-serif;
+  font-size: 12px;
+  padding-bottom: 2rem;
+  border-radius: 0 0 6px 6px;
+}
