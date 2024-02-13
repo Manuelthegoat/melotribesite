@@ -1,0 +1,34 @@
+.footer{
+    background-color: black;
+    color: white;
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.foottitle{
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    padding-bottom: 1rem;
+    font-weight: bold;
+    color: rgb(151, 147, 147);
+}
+.footertext{
+    font-size: 15px;
+    cursor: pointer;
+    transition: .4s;
+    padding-bottom: 0.4rem;
+}
+.footertext:hover{
+    color: #ff5500;
+    transition: .4s;
+}
+.footeritem{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    justify-content: center;
+    /* align-items: center; */
+    gap: 3rem;
+    padding: 3rem;
+}
