@@ -32,3 +32,34 @@
     gap: 3rem;
     padding: 3rem;
 }
+.hr{
+    border-bottom: 1px solid rgb(151, 147, 147);
+    width: 80%;
+}
+.footerbottomtexttop{
+    display: flex;
+    gap: 5rem;
+    padding: 7rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+.footerbottomtexttop>p{
+    font-size: 12px;
+    color: rgb(151, 147, 147);
+    width: 75%;
+}
+.socialicons{
+    display: flex;
+    gap: 2rem;
+}
+.socialicons>i{
+    font-size: 20px;
+}
+.footerfinaltext{
+    font-size: 12px;
+    color: rgb(151, 147, 147);
+    /* width: 75%; */
+    padding: 7rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}

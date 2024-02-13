@@ -36,6 +36,24 @@ const Footer = () => {
             <p className="footertext">Service Policy</p>
           </div>
         </div>
+        <div className="hr"></div>
+        <div className="footerbottomtext">
+          <div className="footerbottomtexttop">
+            <p>
+              Waveme is a music WordPress theme with many features to build a
+              professional music web application, It aim for Music platform,
+              Audio publisher, Sophisticated DJ application. The Social Network
+              for who love music.
+            </p>
+            <div className="socialicons">
+            <i class="fa-brands fa-x-twitter"></i>
+            <i class="fa-brands fa-facebook"></i>
+            <i class="fa-brands fa-instagram"></i>
+            <i class="fa-solid fa-envelope"></i>
+            </div>
+          </div>
+          <p className="footerfinaltext">© Copyright 2023 Melotribe Inc.</p>
+        </div>
       </div>
     </>
   );
