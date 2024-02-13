@@ -1,0 +1,42 @@
+.artists {
+  padding: 8rem;
+  padding-top: 3rem;
+  padding-bottom: 0rem;
+}
+.artiststitle {
+  font-family: "Poppins", sans-serif;
+  font-size: 24px;
+  padding-bottom: 1rem;
+}
+.artistsbottom {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 1rem;
+}
+.artistscard {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  padding: 1rem;
+}
+.artistscard > p {
+  font-family: "Poppins", sans-serif;
+  font-size: 12px;
+  padding-bottom: 0.3rem;
+  padding-top: 0.6rem;
+  font-weight: bold;
+}
+.artistscard > img {
+  border-radius: 50%;
+  width: 100%;
+}
+.artistbtn{
+    width: 4rem;
+    height: 1.4rem;
+    border-radius: 15px;
+    border: 1px solid #ff5500;
+    color: #ff5500;
+    background-color: rgb(255, 255, 255);
+}

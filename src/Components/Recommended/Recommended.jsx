@@ -9,7 +9,7 @@ const Recommended = () => {
         <div className="recommended-body">
           <div className="recommendedcard">
             <div className="topimg">
-              <img src="./assets/image4.png" alt="" />
+              <img src="./assets/d1.png" alt="" />
             </div>
             <div className="bottomtext">
               <p className="firsttext">Sound Waveform</p>
@@ -18,7 +18,7 @@ const Recommended = () => {
           </div>
           <div className="recommendedcard">
             <div className="topimg">
-              <img src="./assets/1.png" alt="" />
+              <img src="./assets/d2.png" alt="" />
             </div>
             <div className="bottomtext">
               <p className="firsttext">Sound Waveform</p>
@@ -27,7 +27,7 @@ const Recommended = () => {
           </div>
           <div className="recommendedcard">
             <div className="topimg">
-              <img src="./assets/2.png" alt="" />
+              <img src="./assets/d3.png" alt="" />
             </div>
             <div className="bottomtext">
               <p className="firsttext">Sound Waveform</p>
@@ -36,7 +36,7 @@ const Recommended = () => {
           </div>
           <div className="recommendedcard">
             <div className="topimg">
-              <img src="./assets/3.png" alt="" />
+              <img src="./assets/d4.png" alt="" />
             </div>
             <div className="bottomtext">
               <p className="firsttext">Sound Waveform</p>
